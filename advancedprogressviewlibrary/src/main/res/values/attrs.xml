@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomSheetProgressDialog">
+        <attr name="BottomSheetProgress_TextColor" format="color|reference" type="integer" />
+        <attr name="BottomSheetProgress_Message" format="string" type="string" />
+        <attr name="BottomSheetProgress_TextSize" format="dimension" />
+        <attr name="BottomSheetProgress_BackgroundColor" format="color|reference" />
+        <attr name="BottomSheetProgress_Icon" format="integer|reference" />
+        <attr name="BottomSheetProgress_Cancellable" format="boolean" />
+        <attr name="BottomSheetProgress_Canceled_On_Touch_Outside" format="boolean" />
+        <attr name="BottomSheetProgress_Logo_Rotate" format="boolean" />
+        <attr name="BottomSheetProgress_ProgressBar_Color" format="color|reference" />
+
+        <attr name="BottomSheetProgress_Font_Face" format="enum">
+            <enum name="NORMAL" value="0" />
+            <enum name="BOLD" value="1" />
+            <enum name="ITALIC" value="2" />
+            <enum name="BOLD_ITALIC" value="3" />
+        </attr>
+
+        <attr name="BottomSheetProgress_Default_Progress_Style" format="enum">
+            <enum name="RECTANGLE" value="0" />
+            <enum name="OVAL" value="1" />
+            <enum name="RING" value="2" />
+        </attr>
+
+    </declare-styleable>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdvancedProgressViewLibrary</string>
+
+        <string name="text_default_color">#000000</string>
+        <string name="default_message">Please Wait.....</string>
+        <string name="default_progress_bar_color">#008577</string>
+
+</resources>
