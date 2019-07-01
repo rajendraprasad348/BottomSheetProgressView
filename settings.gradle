@@ -1,1 +1,1 @@
-include ':app', ':advancedprogressviewlibrary'
+include ':app', ':BottomSheetProgressViewLibrary'

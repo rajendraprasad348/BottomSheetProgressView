@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/advancedprogressviewlibrary" />
+            <option value="$PROJECT_DIR$/BottomSheetProgressViewLibrary" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
